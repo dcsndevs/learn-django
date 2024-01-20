@@ -3,4 +3,4 @@ from django.http import HttpResponse
 
 # Create your views here.
 def about_me(request):
-    return HttpResponse("This is about info!" + "Thanks")
+    return HttpResponse("www.zit.ng")
